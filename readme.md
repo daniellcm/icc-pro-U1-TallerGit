@@ -6,4 +6,8 @@ Daniel Cajas
 
 ## MATERIA
 
-Estructura de Datoss
+Estructura de Datos
+
+## ACTIVIDAD
+
+SACAR 10 en la practica
